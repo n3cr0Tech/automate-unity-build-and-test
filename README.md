@@ -1,10 +1,11 @@
-# Author: Jehoshua Josue
+## Author: Jehoshua Josue
+
 # Unity Dependencies
-## Download and import the AltUnityTester from the Unity marketplace
-## Make sure that your scene has the AltUnityRunnerPrefab, and all gameObjects has the AltUnityId component
+- Download and import the AltUnityTester from the Unity marketplace
+- Make sure that your scene has the AltUnityRunnerPrefab, and all gameObjects has the AltUnityId component
 
 # Things to do BEFORE running shell scripts
-## Unity Side:
+### Unity Side:
 - Make sure that you're going to use the correct shell script based on your OS
 - Make sure that the corresponding script and the method names in the shell script are correct
 - Make sure that the C# script that will make the build in Unity has the proper parameters

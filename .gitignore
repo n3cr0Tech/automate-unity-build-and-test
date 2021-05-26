@@ -1,0 +1,15 @@
+automated-test-unity/.vs/
+automated-test-unity/Assets/AltUnityTester/
+automated-test-unity/Library/Artifacts/
+automated-test-unity/Library/PackageCache/
+automated-test-unity/Library/PlayerDataCache/
+automated-test-unity/Library/ShaderCache/
+Tests/__pycache__/
+automated-test-unity/Logs/
+automated-test-unity/Library/
+automated-test-unity/Builds/
+automated-test-unity/obj/Debug/
+automated-test-unity/Temp/
+Tests/._build.log
+Tests/build.log
+Tests/devenv/

@@ -1,0 +1,13 @@
+attrs==21.2.0
+Deprecated==1.2.12
+iniconfig==1.1.1
+loguru==0.5.3
+packaging==20.9
+pluggy==0.13.1
+pure-python-adb==0.3.0.dev0
+py==1.10.0
+pyparsing==2.4.7
+pytest==6.2.4
+toml==0.10.2
+wrapt==1.12.1
+altunityrunner==1.6.4.1
